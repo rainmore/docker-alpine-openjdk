@@ -1,4 +1,4 @@
-FROM openjdk:8u212-jdk-alpine3.9
+FROM openjdk:13-jdk-alpine3.10
 MAINTAINER "Jie Rong" <rainmore24@gmail.com>
 
 # Add Bash and shared MIME database
