@@ -4,5 +4,5 @@ Doker Alpine OpenJDK provids a docker file based [openjdk:8-jre-alpine](https://
 
 Availabe Image names:
 
-* `rainmore/docker-alpine-openjdk8-jre:jre181`
-* `rainmore/docker-alpine-openjdk8-jre:jre181-with-mime`
+* `rainmore/docker-alpine-openjdk8-jre:jre212`
+* `rainmore/docker-alpine-openjdk8-jre:jre212-with-mime`
